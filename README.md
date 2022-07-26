@@ -5,4 +5,4 @@ Add a line locally
 
 A line I wrote on Github in the browser
 
-My computer is a macbook
+My computer is a macbook that I need to update
